@@ -4,4 +4,7 @@ pillow
 streamlit-webrtc
 mediapipe
 opencv-python-headless
-libgl1-mesa-glx
+pytesseract
+pandas
+pip
+
